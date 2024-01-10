@@ -17,7 +17,7 @@ The /Random string you choose will need to match between the RTMP, and RTSP link
 (RTMP) OBS Broadcast:
 (RTSP) TO TV/Monitor:
 ==========================================================================================================================
-*note* links will be incorrect/non-existant if you havent completed steps 1-3 in order in its entirety, Step 
+*note* links above will be incorrect/non-existant if you havent completed steps 1-3 in order in its entirety. *note*
 
 Troubleshooting: If your having issues with our services, please dont hesitate to join our supoprt server
 https://discord.midnighthostingsolutions.com
