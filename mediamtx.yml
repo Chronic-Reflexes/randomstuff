@@ -113,9 +113,9 @@ authMethods: [basic]
 # Global settings -> RTMP server
 
 # Allow publishing and reading streams with the RTMP protocol.
-rtmp: no
+rtmp: yes
 # Address of the RTMP listener. This is needed only when encryption is "no" or "optional".
-rtmpAddress: :
+rtmpAddress: :9998
 # Encrypt connections with TLS (RTMPS).
 # Available values are "no", "strict", "optional".
 rtmpEncryption: "no"
