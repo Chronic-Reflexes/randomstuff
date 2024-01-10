@@ -1,9 +1,10 @@
-There are a few steps in order to get you started.
+There are a few important steps in order to get you started.
 
 1. Go to the network Tab; Create a new allocation (Big blue button on the bottom right)
 2. Copy newly created secondary port; Go to Startup Tab; Paste inside the RTMP Variable (Replacing the default 9999).
+3. Run the server once. If you havent completed setup the server will fail to start, but will regenerate this file with the correct ports below
  
-3. Create a support ticket with us and await for setup completion: https://discord.midnighthostingsolutions.com
+4. Create a support ticket with us and await for setup completion: https://discord.midnighthostingsolutions.com
 
 Once your stream relay is up, there are 2 different links, one of which you are going to need frequently so keep them handy
 The RTMP link is the link you will be broadcasting to from OBS or other compatible streaming software
