@@ -12,8 +12,8 @@ THE RTSP Link is the link you will need to put into what you are trying to view 
 There will be a /RANDOM string you will need to change. Make sure it is unique!
 The /Random string you choose will need to match between the RTMP, and RTSP links
 
-(RTMP) OBS Broadcast: 
-(RTSP) TO TV/Monitor: 
+(RTMP) OBS Broadcast: rtmp://
+(RTSP) TO TV/Monitor: rtsp://
 
 Troubleshooting: If your having issues with our services, please dont hesitate to join our supoprt server
 https://discord.midnighthostingsolutions.com
