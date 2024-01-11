@@ -9,14 +9,12 @@ There are a few important steps in order to get you started.
 Once your relay is up and running, there are 2 links, one of which you are going to need frequently, so keep them handy.
 The RTMPS link is the link you will be broadcasting to from OBS or other compatible streaming software.
 THE RTSP Link is the link you will need to put into what you are trying to view from (TV) (frequent)
-
 ==========================================================================================================================
 (RTMPS) OBS Broadcast:
 (RTSP) TO TV/Monitor:
+links will be incorrect/non-existant if you haven't completed steps 1-4 in order in its entirety.
 ==========================================================================================================================
-*note* links above will be incorrect/non-existant if you haven't completed steps 1-4 in order in its entirety. *note*
 please be considarate of others; Keep streams bitrate at 6500 or under (6000kbps is good for 1080p @ 60hz)
-
 If using this service with VR Chat or any other public platform:
 - Please consider your privacy and be wary what you put on screen
 - Please try not to use in giant lobbies (Vrchat)
