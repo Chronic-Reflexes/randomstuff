@@ -10,36 +10,18 @@ Once your relay is up and running, there are 2 links, one of which you are going
 The RTMPS link is the link you will be broadcasting to from OBS or other compatible streaming software.
 THE RTSP Link is the link you will need to put into what you are trying to view from (TV) (frequent)
 
-**IMPORTANT** Please complete the above steps 1-4 in their entirety before copying & pasting these links **IMPORTANT**
 ==========================================================================================================================
 (RTMPS) OBS Broadcast:
 (RTSP) TO TV/Monitor:
 ==========================================================================================================================
 *note* links above will be incorrect/non-existant if you haven't completed steps 1-4 in order in its entirety. *note*
+please be considarate of others; Keep streams bitrate at 6500 or under (6000kbps is good for 1080p @ 60hz)
 
-General Rules for use of this service:
-- Stream content you own.
-- Keep streamer's bitrate at 6500 or under (6000kbps is good for 1080p @ 60hz)
-- Do not stream illegal content
-
-  As a service provider we we are not liable for any disruptions or issues with the our relay service waive liability for any legal action
-
-If using this service with VR Chat, Please be wary of your privacy, While all traffic is encrypted point to point
-you still are streaming to others ingame
-
-Troubleshooting:
-(it is assumed you have sucsessfully completed the setup in its entirety 1-5)
-
-   OBS:
-     - Cant Connect to the relay with an error in console: "closed: buffer length exceeds 64"
-       - You have pasted the RTSP link in OBS. Make sure you paste in the RTMPS link
-
-   Vrchat:
-     - The stream does not load on video players
-        - Make sure that the World's Video Player accepts Streams, AVPro or Unity Video Player
+If using this service with VR Chat or any other public platform:
+- Please consider your privacy and be wary what you put on screen
+- Please try not to use in giant lobbies (Vrchat)
 
 If you have issues with our services, please don't hesitate to join our support server
 https://discord.midnighthostingsolutions.com
-
 
 Thank you for choosing Midnight Hosting Solutions for your Streaming Needs
