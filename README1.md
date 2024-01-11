@@ -22,7 +22,7 @@ General Rules for use of this service:
 - Keep streamer's bitrate at 6500 or under (6000kbps is good for 1080p @ 60hz)
 - Do not stream illegal content
 
-  As a service provider we waive liability for any
+  As a service provider we we are not liable for any disruptions or issues with the our relay service waive liability for any legal action
 
 If using this service with VR Chat, Please be wary of your privacy, While all traffic is encrypted point to point
 you still are streaming to others ingame
