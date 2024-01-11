@@ -1,1 +1,22 @@
+(it is assumed you have sucsessfully completed setup steps in Setup-Readme)
 
+   OBS:
+     - Cant Connect to the Relay with NO Error in the console:
+       - Have you created the required allocation in the Network Tab?
+       - did you input the new allocated port into the RTMPS Variable in the Startup Tab?
+
+     - Cant Connect to the Relay WITH an error in console:
+       -"closed: buffer length exceeds 64"
+         - You have pasted the RTSP link in OBS. Make sure you paste in the RTMPS link
+           (trying to stream obs > obs? Reuse the RTMPS link on media input)
+
+   Vrchat:
+     - The stream does not load on video players
+        - Make sure that the World's Video Player accepts Streams, AVPro or Unity Video Player
+        - Make sure you have input the RTSP link into the video player.
+
+If you have issues with our services, please don't hesitate to join our support server
+https://discord.midnighthostingsolutions.com
+
+This file will be updated when we come across more issues & fixes
+Thank you for chosing Midnight Hosting Solutions for your Streaming needs
